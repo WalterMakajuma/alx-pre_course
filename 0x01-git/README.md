@@ -1,1 +1,1 @@
-Cruising git
+Cruising git, a bumpy smooth ride
